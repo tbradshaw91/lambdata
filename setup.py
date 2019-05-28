@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
    name="lambdata-tbradshaw91",
-   version="0.0.2",
+   version="0.0.3",
    author="tbradshaw91",
    description="A collection of Data Science Helper functions",
    long_description=LONG_DESCRIPTION,
@@ -27,5 +27,5 @@ setuptools.setup(
        "License :: OSI Approved :: MIT License",
        "Operating System :: OS Independent",
    ],
-)
+
 
