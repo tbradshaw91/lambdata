@@ -2,6 +2,7 @@
 """
 
 class Dog:
+  """ For Fun Only """
   def __init__(self, name):
       self.name = name
       self.tricks = []
@@ -16,5 +17,5 @@ class DataCleaner:
       self.df = df
 
   def remove_nulls(self):
-      self.df
+      self.df = df
 
